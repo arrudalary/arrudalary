@@ -1,5 +1,5 @@
 ### Olá 👋
-Eu sou Laryssa, tenho 27 anos e sou estudante de Full Stack do Senac/ Porto Digital. 
+Eu sou Laryssa, tenho 27 anos e sou estudante de Full Stack no Senac/ Porto Digital. 
 
 
 🎓 &nbsp;Saúde Coletiva - UPE:desktop_computer:
