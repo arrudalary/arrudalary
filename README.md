@@ -1,12 +1,14 @@
 ### Olá 👋
 
-🔭 <strong>Estudande de Full Stack, atleta de futebol e amo viajar :desktop_computer: :soccer: :airplane: </strong>
+🔭 <strong>Estudande de Full Stack :desktop_computer: </strong>
 
-- :desktop_computer: Eu estou atualmente aprendendo <strong>JavaScript</strong>
+- 🎓 &nbsp; Saúde Coletiva - UPE
+- :desktop_computer: Eu estou atualmente aprendendo: <strong>JavaScript</strong>
+- 📫 Como entrar em contato comigo:
 
-**Contagem de visitas**
+  <a href="https://www.linkedin.com/in/laryssa-arruda-02a9b5274/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-![VisitorCount](https://profile-counter.glitch.me/{Duduxs}/count.svg)
 
-📫 Como entrar em contato comigo: [Linkedin](https://www.linkedin.com/in/laryssa-arruda-02a9b5274/)
+
 
