@@ -2,9 +2,9 @@
 Eu sou Laryssa, tenho 27 anos e sou estudante de Full Stack no Senac/ Porto Digital. 
 
 
-🎓 &nbsp;Saúde Coletiva - UPE:desktop_computer:
+🎓 &nbsp;Saúde Coletiva - UPE
 
-:books:Eu estou atualmente aprendendo: <strong>JavaScript, HTML e CSS</strong>
+:books:Eu estou atualmente aprendendo: <strong>JavaScript, HTML e CSS</strong> :desktop_computer:
 
 ⚡ Curiosidade sobre mim: Jogo Futebol :soccer:
 
