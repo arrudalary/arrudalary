@@ -1,10 +1,7 @@
 ### Olá 👋
-Eu sou Laryssa, tenho 27 anos e sou estudante de Full Stack no Senac/ Porto Digital. 
+Eu sou Laryssa, bacharel em Saúde Coletiva/UPE e atualmente cursando Full Stack no Senac/ Porto Digital. 
 
-
-🎓 &nbsp;Saúde Coletiva - UPE
-
-:books:Eu estou atualmente aprendendo: <strong>JavaScript, HTML e CSS</strong> :desktop_computer:
+:books:Eu estou atualmente aprendendo:  <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 ⚡ Curiosidade sobre mim: Jogo Futebol :soccer:
 
@@ -14,8 +11,7 @@ Eu sou Laryssa, tenho 27 anos e sou estudante de Full Stack no Senac/ Porto Digi
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   
-  ![arrudalary's Stats](https://github-readme-stats.vercel.app/api?username=arrudalary&theme=dark&show_icons=true&hide_border=false&count_private=true)
-  
+
 
 
 
